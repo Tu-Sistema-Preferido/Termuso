@@ -1,0 +1,49 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-image: url(bkg2.jpg);
+    color: #333;
+    text-align: justify;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(50px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+h1, h2, h3 {
+    color: #FFFFFF;
+}
+
+
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+li a{
+    text-decoration: none;
+    color: blue;
+}
+
+p {
+    color: #FFFFFF;
+    text-align: justify;
+}
+
+li{
+    color: #FFFFFF;
+}
